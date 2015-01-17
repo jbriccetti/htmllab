@@ -1,0 +1,23 @@
+node_modules/
+bower_components/
+.DS_Store
+
+# eclipse#
+#####################
+.project
+
+# sublime #
+#####################
+*.sublime-project
+*.sublime-workspace
+
+# dreamweaver #
+###########################
+_notes
+dwsync.xml
+*.LCK
+_mm
+
+# webserver #
+###########################
+web.config
